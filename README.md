@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou a Eli 👋</h1>
+<h1 align="center">Olá! Eu sou a Eli ⭐</h1>
 
 <p align="center">
   🌍 <a href="#versão-em-português">Português</a> | <a href="#english-version">English</a>
